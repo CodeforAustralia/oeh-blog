@@ -1,0 +1,14 @@
+# Site settings
+title: Code for Australia - OEH
+email: kenni@codeforaustralia.org
+description: >
+  Blog for Code for Australia fellows at the NSW Office for Environment and Heritage
+baseurl: "/oeh-blog" # the subpath of your site, e.g. /blog
+url: "http://codeforaustralia.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
