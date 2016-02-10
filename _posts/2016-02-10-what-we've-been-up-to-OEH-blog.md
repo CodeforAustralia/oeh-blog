@@ -3,7 +3,7 @@ layout: post
 title:  "What We've been up to!"
 date:   2016-02-10 
 author: Jesse Morabito
-categories: jekyll update
+categories: update
 ---
 Here's the blog for the Code for Australia NSW Office for Enviornment and Heritage [fellowship](http://www.codeforaustralia.org/about-the-fellowship).
 

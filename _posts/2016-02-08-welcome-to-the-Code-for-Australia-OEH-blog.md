@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to the Code for Australia OEH Blog!"
 date:   2016-02-08 15:35:39 +1100
 author: Kenni Bawden
-categories: jekyll update
+categories: update
 ---
 Here's the blog for the Code for Australia NSW Office for Enviornment and Heritage [fellowship](http://www.codeforaustralia.org/about-the-fellowship).
 
