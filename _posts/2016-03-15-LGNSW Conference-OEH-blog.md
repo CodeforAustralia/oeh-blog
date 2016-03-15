@@ -8,6 +8,8 @@ categories: update
 
 ![LGNSW](https://drive.google.com/file/d/0B44pfxUYcChGOGRZZmp5WVpMX2c/view?usp=sharing)
 
+![LGNSW](https://drive.google.com/a/codeforaustralia.org/file/d/0B44pfxUYcChGVW0tU1F2d0JZQk0/preview)
+
 LGNSW Tourism Conference 2016
 =======
 
