@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "LGNSW Tourism Conference 2016 "
