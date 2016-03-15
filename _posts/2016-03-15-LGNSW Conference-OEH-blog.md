@@ -6,7 +6,8 @@ date:   2016-03-15 16:12:39 +1100
 author: Jesse Morabito
 categories: update
 ---
-![LGNSW] (https://drive.google.com/file/d/0B44pfxUYcChGOGRZZmp5WVpMX2c/view?usp=sharing)
+
+![LGNSW](https://drive.google.com/file/d/0B44pfxUYcChGOGRZZmp5WVpMX2c/view?usp=sharing)
 
 LGNSW Tourism Conference 2016
 =======
@@ -24,7 +25,7 @@ The Heritage Near Me team took me along to run a hands-on demonstration in the t
 
 Unfortunately, the busy nature of the trade space and the conference itself made it impossible to gather any responses through the feedback form from those in attendance. Despite this, the hands-on demonstration was still beneficial as it provided an opportunity to hear peoples thoughts on the prototypes.
 
-![Rambling to Councilors] (https://drive.google.com/file/d/0B44pfxUYcChGM3BTMTBQaVlIZ28/view?usp=sharing)
+![Rambling to Councilors](https://drive.google.com/file/d/0B44pfxUYcChGM3BTMTBQaVlIZ28/view?usp=sharing)
 
 At the OEH stall we loaded up an phone with the current live progress prototype, another phone & laptop with the work in progress Sketch/Invision prototype, a Google Cardboard headset displaying various NSW heritage sites & a business card promoting our online crowdsourcing story page. 
 
