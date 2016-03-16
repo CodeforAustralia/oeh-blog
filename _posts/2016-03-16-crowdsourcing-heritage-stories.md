@@ -15,5 +15,4 @@ For more info about how we’re going about doing that, visit these links below.
 
 [HNM Write-a-thon: Crowdsourcing Heritage Stories](https://docs.google.com/document/d/1Teiz_UUtlKPYISCwjtTgcqo-vfRwbXvwjov9L1meN2Y/edit?usp=sharing)
 
-[Hosting the HNM Write-a-thon] 
-(https://docs.google.com/document/d/1dz_dQvdLAwl-HmvORlVB0ELqGz997JlmPoERSbtn310/edit?usp=sharing)
+[Hosting the HNM Write-a-thon](https://docs.google.com/document/d/1dz_dQvdLAwl-HmvORlVB0ELqGz997JlmPoERSbtn310/edit?usp=sharing)
