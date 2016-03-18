@@ -23,7 +23,7 @@ Take a look at some of our prototypes & try them out
 HTML5 Site
 -----------
 
-The live link to the progress html5 site can be found [here](heritagenear.me)
+The live link to the progress html5 site can be found [here](http://heritagenear.me)
 
 Take note that this is currently being built for mobile & has yet to be designed for landscape & larger device viewing.
 
