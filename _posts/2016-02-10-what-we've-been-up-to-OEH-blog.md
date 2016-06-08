@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What We've been up to!"
+title:  "What we've been up to!"
 date:   2016-02-10 
 author: Jesse Morabito
 categories: update
